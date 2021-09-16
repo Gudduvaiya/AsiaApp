@@ -20,7 +20,7 @@ export class Body extends Component {
   render() {
     return (
       <div className="container ">
-        <h3 className="my-3">TAsian Countries 💥</h3>
+        <h3 className="my-3">Asian Countries 💥</h3>
         <div className="row">
           {this.state.countries.map((element) => {
             return (
