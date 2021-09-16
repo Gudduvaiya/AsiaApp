@@ -1,15 +1,15 @@
 [
   {
-    "name": "Afghanistan",        //RRRRRR
+    "name": "Afghanistan",      
     "topLevelDomain": [".af"],  
     "alpha2Code": "AF",
     "alpha3Code": "AFG",
     "callingCodes": ["93"],
-    "capital": "Kabul",           //RRRRRR
+    "capital": "Kabul",         
     "altSpellings": ["AF", "Afġānistān"],
-    "region": "Asia",             //RRRRRR
-    "subregion": "Southern Asia",     //RRRRRR
-    "population": 27657145,       //RRRRRR
+    "region": "Asia",           
+    "subregion": "Southern Asia",     
+    "population": 27657145,       
     "latlng": [33.0, 65.0],
     "demonym": "Afghan",
     "area": 652230.0,
@@ -22,7 +22,7 @@
     "languages": [
       {
         "iso639_1": "ps",
-        "iso639_2": "pus",          //RRRRRR
+        "iso639_2": "pus",          
         "name": "Pashto",
         "nativeName": "پښتو"
       },
@@ -51,7 +51,7 @@
       "hr": "Afganistan",
       "fa": "افغانستان"
     },
-    "flag": "https://restcountries.eu/data/afg.svg",        //RRRRRR
+    "flag": "https://restcountries.eu/data/afg.svg",       
     "regionalBlocs": [
       {
         "acronym": "SAARC",
